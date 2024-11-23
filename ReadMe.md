@@ -15,7 +15,7 @@
 
 <br>
 
-- ✅ -
+- ✅ This project features a joystick-based transmitter shield and a receiver shield, both designed for the nRF24L01+ PA module, enabling seamless wireless communication for a wide range of remote control applications.
 
 <br>
 
