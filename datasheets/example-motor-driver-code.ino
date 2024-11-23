@@ -31,7 +31,7 @@ void loop() {
 void receiveEvent(int howMany) {
   while (Wire.available()) {
     receivedData = Wire.read();
-    Serial.print("Gelen veri: ");
+    Serial.print("Received Data: ");
     Serial.println(receivedData);
 
     if (receivedData == 'f') {
